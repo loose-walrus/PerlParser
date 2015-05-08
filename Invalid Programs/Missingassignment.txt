@@ -1,0 +1,5 @@
+program B
+begin
+read (a, a1, B, B1);
+Pi (pai)
+end

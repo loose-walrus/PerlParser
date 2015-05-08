@@ -1,0 +1,2 @@
+
+program Dska234begin while +var do if -var = +734 then begin var2 := 867 end else read ( variable , nothervar , var3 ) end

@@ -1,0 +1,1 @@
+program Bc123defbegin read ( variable , nothervar , var3 ) end
